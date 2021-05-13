@@ -1,0 +1,54 @@
+*{
+	font-size: 14px;
+}
+
+/* NAVIGATOR */
+
+.logo{
+    height: 100px;
+}
+a {
+    font-size: 16px;
+    color: rgb(180,180,180) !important;
+}
+
+/* MAIN-IMAGE */
+
+.img-seed img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Team */
+
+.team-segment h5{
+    margin-top: -30px !important;
+    margin-bottom: 20px !important;
+}
+
+.team-segment p{
+    margin-bottom: 2px !important;
+}
+
+.team-avatar {
+    border-radius: 150px;
+	background-size: cover;
+	background-position: top;
+    clip-path: circle(125px at 50% 40%);
+}
+
+/* Footer */
+
+.footer p{
+    margin: -3px 0px -3px 0px;
+}
+
+/* Extra Utilities */
+
+.img-cover{
+    object-fit: cover;
+}
+
+#no-pad{
+    padding: 0px;}

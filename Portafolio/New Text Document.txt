@@ -1,0 +1,19 @@
+foto --> Avatar
+Banner --> Background
+HV --> CV RALFARO
+
+css/images/Overlay.png ????
+css/images/ie/grad0-15.svg ????
+Ver los archivos SVG de Fonts
+
+Leer sobre el origen de cada Java Script
+
+
+
+
+	MAIN INDEX
+
+Copyright --> Bottom
+
+
+
